@@ -158,9 +158,14 @@ ul li:hover{
 }
 .img{
     border:1px solid black;
-    border-radius: 50%;
     height:160px;
+    border-radius: 50%;
     text-align:center;
     margin-left:30px;
     margin-top:10px;
+}
+.princal{
+    font-size:12px;
+    padding:10px;
+
 }
