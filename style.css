@@ -131,3 +131,17 @@ ul li:hover{
     margin-top:30px;
     padding:15px;
 }
+/* new section */
+.main{
+    background-color: #f3f3f3;
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.box1{
+    height:400px;
+    width:300px;
+    background-color:white;
+    border:1px solid black;
+    margin-top:-40px;
+}
