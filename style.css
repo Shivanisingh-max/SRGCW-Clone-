@@ -156,3 +156,11 @@ ul li:hover{
     justify-content: center;
     align-items: center;
 }
+.img{
+    border:1px solid black;
+    border-radius: 50%;
+    height:160px;
+    text-align:center;
+    margin-left:30px;
+    margin-top:10px;
+}
