@@ -1,0 +1,78 @@
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>404 </title>
+    <link rel="icon" href="https://www.rajgurucollege.com/images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            outline: none;
+            box-sizing: border-box;
+            font-family: Arial;
+        }
+
+        body {
+            height: 100vh;
+            background: #fff4d4;
+            font-family: Arial;
+        }
+
+
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+            a:hover {
+                color: #fff;
+                text-decoration: none;
+            }
+
+        p {
+            font-size: 16px;
+            color: #333;
+            padding: 30px 0 0;
+        }
+
+        .img_sec {
+            padding: 200px 0 50px;
+        }
+
+        .mt-3 {
+            margin-top: 30px;
+        }
+
+        h1 {
+            font-weight: bold;
+        }
+    </style>
+
+
+</head>
+   <body>
+          <div class="container text-center">
+              <div class="img_sec">
+                  <img src="404.png" />
+              </div>
+
+             
+
+              <h1 class="font-weight">
+                  Opps! Page not found
+              </h1>
+
+              <p>The page you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
+
+              <div class="btn btn-primary mt-3">
+                  <a href="https://www.rajgurucollege.com/">Return Home</a>
+              </div>
+          </div>
+   </body>
+</html>
